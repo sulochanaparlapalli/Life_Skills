@@ -24,7 +24,7 @@
 * Not paying attention to body language and facial expressions
 
 ## 4. What can you do to improve your listening?
-* Focus your full attention on the speaker
+* Focus your full attention on the speake
 * Set aside personal feelings and prejudices
 * Observe body language and facial expressions
 * Use encouraging phrases to continue the conversation
