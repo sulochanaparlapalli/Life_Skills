@@ -1,4 +1,6 @@
-# 1. What are the activities you do that make you relax - Calm quadrant?
+# Energy Management
+
+## 1. What are the activities you do that make you relax - Calm quadrant?
 
 * Meditation
 * Listening to music
@@ -11,7 +13,7 @@
 
 ---
 
-# 2. When do you find getting into the Stress quadrant?
+## 2. When do you find getting into the Stress quadrant?
 
 * When learning a new concept or technology
 * During project deadlines
@@ -24,7 +26,7 @@
 
 ---
 
-# 3. How do you understand if you are in the Excitement quadrant?
+## 3. How do you understand if you are in the Excitement quadrant?
 
 * I feel highly motivated and energetic
 * I am fully focused on the task
@@ -37,7 +39,7 @@
 
 ---
 
-# 4. Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
+## 4. Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
 * Sleep is essential for physical and mental health.
 * Sleep improves memory and learning.
@@ -51,7 +53,7 @@
 
 ---
 
-# 5. What are some ideas that you can implement to sleep better?
+## 5. What are some ideas that you can implement to sleep better?
 
 * Maintain a consistent sleep schedule.
 * Avoid caffeine late in the day.
@@ -65,7 +67,7 @@
 
 ---
 
-# 6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
+## 6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
 
 * Exercise enhances focus and attention.
 * Exercise reduces stress and anxiety.
@@ -78,7 +80,7 @@
 
 ---
 
-# 7. What are some steps you can take to exercise more?
+## 7. What are some steps you can take to exercise more?
 
 * Walk for at least 30 minutes daily.
 * Use stairs instead of elevators.
